@@ -1,0 +1,15 @@
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\bin\Debug\net6.0\stampa e scansione.exe
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\bin\Debug\net6.0\stampa e scansione.deps.json
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\bin\Debug\net6.0\stampa e scansione.runtimeconfig.json
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\bin\Debug\net6.0\stampa e scansione.dll
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\bin\Debug\net6.0\stampa e scansione.pdb
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\stampa e scansione.csproj.AssemblyReference.cache
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\stampa e scansione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\stampa e scansione.AssemblyInfoInputs.cache
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\stampa e scansione.AssemblyInfo.cs
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\stampa e scansione.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\stampa e scansione.dll
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\refint\stampa e scansione.dll
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\stampa e scansione.pdb
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\stampa e scansione.genruntimeconfig.cache
+C:\Users\Utente\Documents\C#\C-sharp\training\stampa e scansione\obj\Debug\net6.0\ref\stampa e scansione.dll
